@@ -1,0 +1,25 @@
+{
+  "name": "right-pad",
+  "version": "1.0.0",
+  "description": "String right pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "leftpad",
+    "left",
+    "pad",
+    "padding",
+    "string"
+  ],
+  "author": "DPi",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/dpiatkowski/right-pad.git"
+  },
+  "devDependencies": {
+      "tape": "^4.5.1"
+  }
+}
