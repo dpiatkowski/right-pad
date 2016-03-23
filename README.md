@@ -5,14 +5,14 @@ String right pad.
 ## Usage
 
 ```js
-leftpad = require('left-pad')
+var rightpad = require('rightpad');
 
-leftpad('foo', 5)
+rightpad('foo', 5);
 // => "foo  "
 
-leftpad('foobar', 6)
+rightpad('foobar', 6);
 // => "foobar"
 
-leftpad(1, 2, 0)
+rightpad(1, 2, 0);
 // => "10"
 ```
